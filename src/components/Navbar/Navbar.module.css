@@ -1,0 +1,12 @@
+.nav {
+    padding: 20px;
+    flex: 0 1 25%;
+  }
+
+.item a.active {
+  color:gold;
+}
+.item a {
+  color: blue;
+  font-size: 25px;
+}
